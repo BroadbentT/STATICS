@@ -1,2 +1,5 @@
 # STATICS
-Static Binaries
+## Static binaries for Kali Linux
+
+1. nmap
+2. socat
