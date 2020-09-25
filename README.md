@@ -1,0 +1,2 @@
+# STATICS
+Static Binaries
